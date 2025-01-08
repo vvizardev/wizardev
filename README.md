@@ -8,8 +8,10 @@
 - ✨ Rust & Blockchain Engineer ( Anchor )
 - ✨ Defi , Dex Expert ( Dex , Staking , Farming , Presale , Token Freezer )
 - ✨ Forked Pump.fun & Working on Solana Trading Bot
-<h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
+
 <!--
+<h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
+
 <div style={{display : flex ; justify-content : space-evenly}}> 
     <a href="mailto:nakao95911@gmail.com" target="_blank">
         <img alt="Email"
