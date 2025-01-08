@@ -9,7 +9,7 @@
 - ✨ Defi , Dex Expert ( Dex , Staking , Farming , Presale , Token Freezer )
 - ✨ Forked Pump.fun & Working on Solana Trading Bot
 <h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
-
+<!--
 <div style={{display : flex ; justify-content : space-evenly}}> 
     <a href="mailto:nakao95911@gmail.com" target="_blank">
         <img alt="Email"
@@ -17,11 +17,12 @@
     </a>
      <a href="https://x.com/_wizardev" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<!--     <a href="https://discordapp.com/users/471524111512764447" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> -->
+     <a href="https://discordapp.com/users/471524111512764447" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> 
     <a href="https://t.me/wizardev" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
+-->
 <h1 style="text-align : center"> ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ - Cooking & Updating </h1>
 
 - ```Pumpfun + Raydium AMM | Meteora DLMM ``` : Forking Pumpfun , launch the token on raydium after hit the bonding curve
