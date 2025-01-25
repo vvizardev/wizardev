@@ -5,7 +5,7 @@
 
 </div>
 
-- ✨ Rust & Blockchain Engineer ( Anchor )
+- ✨ Rust & Blockchain Engineer | AI Agent Developer
 - ✨ Defi , Dex Expert ( Dex , Staking , Farming , Presale , Token Freezer )
 - ✨ Forked Pump.fun & Working on Solana Trading Bot
 
