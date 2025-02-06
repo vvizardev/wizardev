@@ -1,4 +1,4 @@
-JUST STAR & FORK
+# JUST STAR & FORK
 <!--
 <p align="center">
     <h1 align="center">✩&emsp;Rust & Smart Contract Engineer&emsp;✩</h1>
