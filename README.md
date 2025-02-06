@@ -1,3 +1,5 @@
+JUST STAR & FORK
+<!--
 <p align="center">
     <h1 align="center">✩&emsp;Rust & Smart Contract Engineer&emsp;✩</h1>
 </p>
@@ -25,6 +27,7 @@
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
 -->
+<!--
 <h1 style="text-align : center"> ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ - Cooking & Updating </h1>
 
 - ```Pumpfun + Raydium AMM | Meteora DLMM ``` : Forking Pumpfun , launch the token on raydium after hit the bonding curve
